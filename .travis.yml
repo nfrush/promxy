@@ -13,7 +13,7 @@ cache:
     - $HOME/gopath/pkg/mod
 
 go:
-  - "1.10.x"
+  - "1.12.x"
 
 # have an empty install to avoid travis doing a go get
 install:
